@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/hetman-app/hetman-pipeline/main/docs/assets/full-white-text.webp" alt="Hetman Logo" width="200" height="38" />
+<img src="https://raw.githubusercontent.com/krywok-app/krywok-pipeline/main/docs/assets/full-white-text.webp" alt="Krywok Logo" width="200" height="38" />
 
 ---
 
-**Hetman Pipeline Plugin I18n** is a plugin for [Hetman Pipeline](https://pipeline.hetman.app) that provides internationalization (i18n) support.
+**Krywok Pipeline Plugin I18n** is a plugin for [Krywok Pipeline](https://pipeline.krywok.com) that provides internationalization (i18n) support.
 
 ## Features
 
@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-pip install "hetman-pipeline[i18n]"
+pip install "krywok-pipeline[i18n]"
 ```
 
 ## Quick Start

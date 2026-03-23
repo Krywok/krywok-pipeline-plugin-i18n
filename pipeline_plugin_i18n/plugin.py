@@ -3,7 +3,7 @@ from __future__ import annotations
 from functools import partial
 from typing import TYPE_CHECKING
 
-from hetman_kit_localize import Localize
+from krywok_kit_localize import Localize
 from pipeline.handlers.condition_handler.resources.types import \
     ConditionErrorTemplate
 
