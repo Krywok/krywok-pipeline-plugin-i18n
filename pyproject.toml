@@ -21,9 +21,9 @@ dependencies = ["krywok-pipeline>=1.0.0", "krywok-kit-localize>=1.0.0"]
 
 [project.urls]
 Homepage = "https://pipeline.krywok.com"
-Documentation = "https://github.com/krywok-app/krywok-pipeline-plugin-i18n"
-Repository = "https://github.com/krywok-app/krywok-pipeline-plugin-i18n"
-Issues = "https://github.com/krywok-app/krywok-pipeline-plugin-i18n/issues"
+Documentation = "https://github.com/krywok/krywok-pipeline-plugin-i18n"
+Repository = "https://github.com/krywok/krywok-pipeline-plugin-i18n"
+Issues = "https://github.com/krywok/krywok-pipeline-plugin-i18n/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
